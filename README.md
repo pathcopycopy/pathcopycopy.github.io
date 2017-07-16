@@ -2,7 +2,7 @@ Path Copy Copy is an add-on for Windows Explorer that adds contextual menu items
 
 Path Copy Copy works on Windows XP or later. Grab the [latest release here!](https://github.com/clechasseur/pathcopycopy/releases/latest)
 
-![The Path Copy Copy contextual menu items](screenshots/PathCopyCopyContextualMenu.png)
+![The Path Copy Copy contextual menu items](PathCopyCopyContextualMenu.png)
 
 Path Copy Copy is [free software](https://github.com/clechasseur/pathcopycopy/blob/master/LICENSE). See the [project on GitHub](https://github.com/clechasseur/pathcopycopy) for more information, to file issues, etc. Also, if you use and like Path Copy, please consider donating to fund future development and customer support.
 
