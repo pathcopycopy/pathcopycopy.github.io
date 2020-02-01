@@ -1,6 +1,6 @@
 Path Copy Copy is an add-on for Windows Explorer that adds contextual menu items on all files and folders allowing the user to copy the path(s) in various formats. Idea copied from "Path Copy".
 
-Path Copy Copy works on Windows XP or later. Grab the [latest release here!](https://github.com/clechasseur/pathcopycopy/releases/latest)
+Path Copy Copy works on Windows Vista or later. Grab the [latest release here!](https://github.com/clechasseur/pathcopycopy/releases/latest)
 
 
 For help and information, please refer to the [wiki](https://github.com/clechasseur/pathcopycopy/wiki).
